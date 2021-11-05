@@ -1,0 +1,8 @@
+.bg-1 {
+    background: url(../img/drying-hair.jpg) center / cover no-repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    filter: brightness(0.5) saturate(1.5);
+}

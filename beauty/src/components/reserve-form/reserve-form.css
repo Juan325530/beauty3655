@@ -1,0 +1,8 @@
+.bg-2 {
+    background: url(../../img/mirrors.jpg) top / cover no-repeat;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    filter: brightness(0.5) saturate(1.5);
+}
