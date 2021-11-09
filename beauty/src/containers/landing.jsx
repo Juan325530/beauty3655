@@ -15,11 +15,11 @@ function Landing(props){
             <div class="container pt-4 pb-5">
             <div class="row text-light text-center">
             <Service titulo="Salon de belleza" contenido="Secado"/> 
-            <Service titulo="Lavado" contenido="Tinte"/>
-            <Service titulo="Lavado" contenido="Tinte"/>
-            <Service titulo="Lavado" contenido="Tinte"/>
-            <Service titulo="Lavado" contenido="Tinte"/>
-            <Service titulo="Lavado" contenido="Tinte"/>
+            <Service titulo="Secado" contenido="Tinte"/>
+            <Service titulo="Pintado" contenido="Tinte"/>
+            <Service titulo="Uñas" contenido="Tinte"/>
+            <Service titulo="Planchado" contenido="Tinte"/>
+            <Service titulo="Mascarilla Facial" contenido="Tinte"/>
             </div>
             
               <ReserveForm/>  
