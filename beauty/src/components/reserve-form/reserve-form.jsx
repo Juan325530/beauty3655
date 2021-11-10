@@ -10,7 +10,7 @@ function ReserveForm(props){
         <div class="container pt-4 pb-5">
             <div class="col-12">
                 <h2 class="featurette-heading text-white">¿Deseas visitarnos? <span class="text-warning">Reserva una cita.</span></h2>
-                <p class="lead text-white">Lorem ipsum.</p>
+                <p class="lead text-white">¡Comienza aqui!</p>
             </div>
             
         
