@@ -1,14 +1,14 @@
 import {
   BrowserRouter as Router,
   Routes,
-  Route,
-  Link
+  Route
+/*Link*/
 } from "react-router-dom";
 
 
 
-import { useState } from "react";
-import Landing from "./containers/landing";
+/*import { useState } from "react";*/
+import Landing from "./components/Cliente";
 
 
 function App() {

@@ -6,10 +6,10 @@ function HeaderLogo(props){
    
  
     return(
-        <div class="bg-black">
-            <div class="row">
-                <div class="col-12 col-md-8 col-lg-7 col-xl-6 m-auto">
-                    <img src={logo} class="w-100"/>
+        <div className="bg-black">
+            <div className="row">
+                <div className="col-12 col-md-8 col-lg-7 col-xl-6 m-auto">
+                    <img src={logo} alt=" " className="w-100"/>
                 </div>
             </div>
         </div>
